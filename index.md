@@ -75,7 +75,6 @@ Add your recipe to the bulleted list:
 - [Leftover Salad Soup](./recipes/leftoversaladsoup.html)
 - [Crock-Pot French Toast](./recipes/crockpotfrenchtoast.html)
 - [Borscht](./recipes/borscht.html)
-- [Peanut Butter and Pickle Sandwich](./recipes/PB_and_pickle_sandwich.md)
 - [OdeToTheQueen](./recipes/odetothequeen.html)
 - [Instant Noodles](./recipes/instantnoodles.html)
 - [Twice-cooked pork](./recipes/Twicecookedpork.html)
@@ -343,3 +342,4 @@ Add your recipe to the bulleted list:
 - [Ikuradon](recipes/ikuradon.md)
 - [Chelokebab](recipes/Chelokebab.md)
 - [Fish Curry](./recipes/FishCurry.md)
+- [Stew](./recipes/Stew.md)
